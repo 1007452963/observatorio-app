@@ -325,4 +325,8 @@ with tab7:
     st.dataframe(filtrar(DF, deptos, indicador, anio_min, anio_max).head(400))
 
 st.markdown("---")
-st.caption("Observatorio Departamental de Colombia · Desarrollado por **Jhon Ortiz** · 2025")
+st.caption("Observatorio Departamental de Colombia · Desarrollado por **Jhon Ortiz** · 2026")
+
+
+
+
